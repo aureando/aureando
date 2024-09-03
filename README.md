@@ -20,7 +20,7 @@ Je suis un développeur passionné, spécialisé en Design web et Mobile. J'aime
 
 ## 📫 Comment me joindre
 - LinkedIn : Aureando RABARIJAONA
-- Twitter : @aureando
+- Twitter : aureando
 - Email : raureando@gmail.com
 
 ## 🤝 Ouvert aux collaborations
