@@ -1,28 +1,30 @@
-# 👋 Bonjour, je suis ``Aureando RABARIJAONA``
+##  Bonjour, je suis Aureando RABARIJAONA
 
-## 🚀 À propos de moi
-Je suis un développeur passionné, spécialisé en Design web et Mobile. J'aime créer des solutions innovantes et apprendre constamment de nouvelles technologies.
+Je suis un développeur passionné par la création d'expériences digitales immersives. J'aime relever de nouveaux défis et collaborer avec des équipes créatives pour donner vie à des projets innovants.
 
-## 🛠 Compétences techniques
-- Langages de programmation : ``JavaScript``, ``Python``, ``Java``, ``Kotlin``, ``C++``
-- Front-end : ``HTML5``, ``CSS3``
-- Back-end : ``PHP``, ``SQL``
-- Framework : ``Bootstrap5``, ``Fultter``
-- Base de données : ``MySQL``, ``PostgreSQL``
-- Outils : ``Git``
-  
-## 🌱 J'apprends actuellement
-- ``Motion Design Web``
-- ``UI/UX Design``
-- ``Android``
-  
-## 📊 Mes stats GitHub
+###  Compétences
+* **Développement web et mobile:** JavaScript, PHP, JAVA, Kotlin
+* **Design:** Figma, Adobe XD, Lunacy, UI/UX Design
+* **Bases de données:** MySQL, PostgreSQL
+* **Cloud:** FireBase
+
+###  Projets
+* **[Nom du projet 1]:** Une application mobile Flutter pour [objectif]. J'ai utilisé [technologies] pour créer une interface utilisateur intuitive et performante. [Lien vers le projet]
+* **[Nom du projet 2]:** Un site web responsive développé avec React et Node.js. [Lien vers le projet]
+
+###  Stats GitHub
 ![Statistiques GitHub](https://github-readme-stats.vercel.app/api?username=aureando&show_icons=true&theme=radical)
 
+###  Collaborons !
+Je suis ouvert à toutes les opportunités de collaborer sur des projets intéressants. N'hésitez pas à me contacter pour discuter de vos idées.
 
-## 🤝 Ouvert aux collaborations
-Je suis toujours intéressé par de nouveaux projets passionnants. N'hésitez pas à me contacter si vous avez une idée de collaboration !
+**Let's build something amazing together!**
 
 ---
+
+**Badges:**
+[![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=flat-square)](https://www.javascript.com/)
+[![React](https://img.shields.io/badge/React-20232a?style=flat-square)](https://reactjs.org/)
+[![Flutter](https://img.shields.io/badge/Flutter-blue?style=flat-square)](https://flutter.dev/)
 
 ⭐️ From [aureando](https://github.com/aureando)
