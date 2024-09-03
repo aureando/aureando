@@ -8,10 +8,6 @@ Je suis un développeur passionné par la création d'expériences digitales imm
 * **Bases de données:** MySQL, PostgreSQL
 * **Cloud:** FireBase
 
-###  Projets
-* **[Nom du projet 1]:** Une application mobile Flutter pour [objectif]. J'ai utilisé [technologies] pour créer une interface utilisateur intuitive et performante. [Lien vers le projet]
-* **[Nom du projet 2]:** Un site web responsive développé avec React et Node.js. [Lien vers le projet]
-
 ###  Stats GitHub
 ![Statistiques GitHub](https://github-readme-stats.vercel.app/api?username=aureando&show_icons=true&theme=radical)
 
