@@ -12,9 +12,9 @@ Je suis un développeur passionné, spécialisé en Design web et Mobile. J'aime
 - Outils : ``Git``
   
 ## 🌱 J'apprends actuellement
-- Motion Design Web
-- UI/UX Design
-- Android
+- ``Motion Design Web``
+- ``UI/UX Design``
+- ``Android``
   
 ## 📊 Mes stats GitHub
 ![Statistiques GitHub](https://github-readme-stats.vercel.app/api?username=aureando&show_icons=true&theme=radical)
