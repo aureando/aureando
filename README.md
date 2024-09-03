@@ -15,13 +15,10 @@ Je suis un développeur passionné, spécialisé en Design web et Mobile. J'aime
 - Motion Design Web
 - UI/UX Design
 - Android
+  
 ## 📊 Mes stats GitHub
 ![Statistiques GitHub](https://github-readme-stats.vercel.app/api?username=aureando&show_icons=true&theme=radical)
 
-## 📫 Comment me joindre
-- LinkedIn : Aureando RABARIJAONA
-- Twitter : aureando
-- Email : raureando@gmail.com
 
 ## 🤝 Ouvert aux collaborations
 Je suis toujours intéressé par de nouveaux projets passionnants. N'hésitez pas à me contacter si vous avez une idée de collaboration !
