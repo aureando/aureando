@@ -5,7 +5,7 @@ Je suis un développeur passionné par la création d'expériences digitales imm
 ###  Compétences
 * **Développement web et mobile:** JavaScript, PHP, JAVA, Kotlin
 * **Design:** Figma, Adobe XD, Lunacy, UI/UX Design
-* **Bases de données:** MySQL, PostgreSQL
+* **Bases de données:** MySQL, MongoDB, PostgreSQL
 * **Cloud:** FireBase
 
 ###  Stats GitHub
