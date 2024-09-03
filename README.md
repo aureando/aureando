@@ -12,7 +12,7 @@ Je suis un développeur passionné, spécialisé en Design web et Mobile. J'aime
 - Outils : Git
   
 ## 🌱 J'apprends actuellement
-- Motio Design Web
+- Motion Design Web
 - UI/UX Design
 - Android
 ## 📊 Mes stats GitHub
