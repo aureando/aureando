@@ -4,12 +4,12 @@
 Je suis un développeur passionné, spécialisé en Design web et Mobile. J'aime créer des solutions innovantes et apprendre constamment de nouvelles technologies.
 
 ## 🛠 Compétences techniques
-- Langages de programmation : JavaScript, Python, Java, Kotlin, C++
-- Front-end : HTML5, CSS3
-- Back-end : PHP, SQL
-- Framework : Bootstrap5, Fultter
-- Base de données : MySQL, PostgreSQL
-- Outils : Git
+- Langages de programmation : ``JavaScript``, ``Python``, ``Java``, ``Kotlin``, ``C++``
+- Front-end : ``HTML5``, ``CSS3``
+- Back-end : ``PHP``, ``SQL``
+- Framework : ``Bootstrap5``, ``Fultter``
+- Base de données : ``MySQL``, ``PostgreSQL``
+- Outils : ``Git``
   
 ## 🌱 J'apprends actuellement
 - Motion Design Web
