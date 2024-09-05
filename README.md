@@ -3,7 +3,7 @@
 Je suis un développeur passionné par la création d'expériences digitales immersives. J'aime relever de nouveaux défis et collaborer avec des équipes créatives pour donner vie à des projets innovants.
 
 ###  Compétences
-* **Développement web et mobile:** ``JavaScript``, ``PHP``, ``JAVA``, ``Kotlin``, Python
+* **Développement web et mobile:** ``JavaScript``, ``PHP``, ``JAVA``, ``Kotlin``, ``Python``
 * **Design:** ``Figma``, ``Adobe XD``, ``Lunacy``, ``UI/UX Design``
 * **Bases de données:** ``MySQL``, ``MongoDB``, ``PostgreSQL``
 * **Cloud:** ``FireBase``
