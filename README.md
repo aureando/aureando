@@ -6,7 +6,7 @@ Je suis un développeur passionné par la création d'expériences digitales imm
 * **Développement web et mobile:** ``JavaScript``, ``PHP``, ``JAVA``, ``Kotlin``, ``Python``
 * **Design:** ``Figma``, ``Adobe XD``, ``Lunacy``, ``UI/UX Design``, ``Inkscape``,``Adobe illustrator``
 * **Bases de données:** ``MySQL``, ``MongoDB``, ``PostgreSQL``
-* **Cloud:** ``FireBase``, ``Gdrive``
+* **Cloud:** ``FireBase``
 
 ###  Stats GitHub
 ![Statistiques GitHub](https://github-readme-stats.vercel.app/api?username=aureando&show_icons=true&theme=radical)
